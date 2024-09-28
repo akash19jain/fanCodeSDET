@@ -72,5 +72,5 @@ Once we run the test we can view the result of the test Run along with a report 
 * Extent Reports
 * Jackson API
 
-## Folder Structure
+## UML Diagram
 <img width="308" alt="Screenshot 2024-09-28 at 3 54 42 PM" src="https://github.com/user-attachments/assets/b2a8cc83-df7f-4e96-886e-d468db6aeece">
